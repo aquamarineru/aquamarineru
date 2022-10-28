@@ -23,8 +23,6 @@
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Germany.
 
-- :telescope: I’m working as a Full Stack Web Developer and contributing to frontend and backend for building web applications.
-
 - :zap: In my free time I go hiking and do yoga.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ilyushina/)
@@ -122,7 +120,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 
-
+<!--
 ---
 
 ### :fire: My Stats :
@@ -134,7 +132,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ![EnjiRouz GitHub Stats](https://github-readme-stats.vercel.app/api?username=aquamarineru&count_private=true&hide=contribs&show_icons=true&theme=radical)
 
-
+-->
 
 <!--
 **aquamarineru/aquamarineru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
