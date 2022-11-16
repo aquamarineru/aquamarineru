@@ -70,20 +70,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
        width="40" height="40"/>&nbsp;
   <img 
        style="margin: 10px;"
-       src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" 
-       title="Material UI" alt="Material UI" 
-       width="40" height="40"/>&nbsp;
-  <img 
-       style="margin: 10px;"
        src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" 
        title="Redux" alt="Redux " 
        width="40" height="40"/>&nbsp;
-  <img
-    style="margin: 10px;"
-    src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg"
-    alt="TypeScript"
-    height="50"
-  />&nbsp;
+ 
   <img 
        style="margin: 10px;"
        src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" 
