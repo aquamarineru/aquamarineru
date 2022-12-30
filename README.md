@@ -21,11 +21,12 @@
 
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Germany.
+I am a Web & App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Germany.
 
+- 🔭 I’m currently working on my pet projects to improve my level of coding
+- 🌱 I’m currently learning TypeScript/JavaScript, ReactJS, NextJS
+- :mailbox: I'm always looking for collaborations. How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ilyushina/)
 - :zap: In my free time I go hiking and do yoga.
-
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ilyushina/)
 
 
 ---
@@ -33,81 +34,47 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :hammer_and_wrench: Languages and Tools :
 
     
-<div>
-  <img 
-       style="margin: 10px;"
-       src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" 
-       title="HTML5" 
-       alt="HTML" 
-       width="40" 
-       height="40"/>&nbsp;
-  <img 
-       style="margin: 10px;"
-       src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  
-       title="CSS3" alt="CSS" 
-       width="40" height="40"/>&nbsp;
-  <img
-    style="margin: 10px;"
-    src="https://profilinator.rishav.dev/skills-assets/sass-original.svg"
-    alt="Sass"
-    height="50"
-  />&nbsp;
-  <img
-    style="margin: 10px;"
-    src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg"
-    alt="Bootstrap"
-    height="50"
-  />&nbsp;
-  <img 
-       style="margin: 10px;"
-       src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" 
-       title="JavaScript" alt="JavaScript" 
-       width="40" height="40"/>&nbsp;
-  <img 
-       style="margin: 10px;"
-       src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" 
-       title="React" alt="React" 
-       width="40" height="40"/>&nbsp;
-  <img 
-       style="margin: 10px;"
-       src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" 
-       title="Redux" alt="Redux " 
-       width="40" height="40"/>&nbsp;
- 
-  <img 
-       style="margin: 10px;"
-       src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" 
-       title="MySQL"  alt="MySQL" 
-       width="40" height="40"/>&nbsp;
-  <img
-    style="margin: 10px;"
-    src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg"
-    alt="MongoDB"
-    height="50"
-  />
-  <img
-    style="margin: 10px;"
-    src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg"
-    alt="PostgreSQL"
-    height="50"
-  />
-  <img 
-       style="margin: 10px;"
-       src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" 
-       title="NodeJS" alt="NodeJS" 
-       width="40" height="40"/>&nbsp;
-  <img
-    style="margin: 10px;"
-    src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg"
-    alt="Express.js"
-    height="50"
-  />
-  <img 
-       style="margin: 10px;"
-       src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" 
-       title="Git" alt="Git" 
-       width="40" height="40"/>
-</div>
+<p align="center"> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>     </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  <a href="https://graphql.org" target="_blank" rel="noreferrer">  
+    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> 
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>   
+  </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+  </a>
+ </p>
+
 
 
 <!--
